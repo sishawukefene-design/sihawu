@@ -1,5 +1,5 @@
 
-<!--
+
 <h1 align="center">Hi 👋, I'm Sishaw Kefene</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
@@ -21,7 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sishawu6642&show_icons=true&locale=en" alt="sishawu6642" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sishawu6642&" alt="sishawu6642" /></p>
-
+<--
 👋 Hi, I'm Sishawu Kefene
 
 🚀 Software Engineering Student | Web Developer | Tech Enthusiast
